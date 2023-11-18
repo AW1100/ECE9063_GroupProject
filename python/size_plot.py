@@ -3,7 +3,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 # Folder path containing images
-folder_path = '../Data/images/bgRemoved'
+folder_path = '../Data/images/cropped'
 
 # Lists to store image widths and heights
 image_widths = []
